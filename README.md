@@ -1,5 +1,3 @@
-# Apple-Counting-in-Orchards
-UFMFRR-15-M - Machine vision 22sep_1
 # UFMFRR-15-M - Machine vision 22sep_1
 
 This paper is the group work for the Machine Vision course and is divided into seven
@@ -65,4 +63,3 @@ Dr Disi Chen
 
 I would like to thank each and every member of the group for their conscientious efforts and if I have time, I will go through them again in detail.
 Again, I will open source the report here if the panelists agree.
-
