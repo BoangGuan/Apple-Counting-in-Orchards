@@ -36,7 +36,9 @@ containing the codes for our morphology and HSV based algorithm.
 
 ### Traditional identification results
 
+
 ![detection_after](https://s2.loli.net/2023/01/10/TSnz1bZyaKCj3Rh.png)
+
 
 ![diff_kernel_size](https://s2.loli.net/2023/01/10/JzFyk1wU74I8gxY.png)
 
